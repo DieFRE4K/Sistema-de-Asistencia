@@ -1,0 +1,2 @@
+D:\Diego\La U\Sistemas de Información II\GitHub\Iniciar-Sesi-n\AppSistemaDeAsistencia\AppSistemaDeAsistencia\bin\Debug\AppSistemaDeAsistencia.exe.config
+D:\Diego\La U\Sistemas de Información II\GitHub\Iniciar-Sesion\AppSistemaDeAsistencia\AppSistemaDeAsistencia\bin\Debug\AppSistemaDeAsistencia.exe.config
