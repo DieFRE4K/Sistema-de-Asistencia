@@ -12,3 +12,6 @@ F:\AppControlAsistencia\AppControlAsistencia\obj\Debug\AppControlAsistencia.exe
 F:\AppControlAsistencia\AppControlAsistencia\obj\Debug\AppControlAsistencia.pdb
 F:\AppControlAsistencia\AppControlAsistencia\obj\Debug\AppControlAsistencia.DocenteSecundaria.resources
 F:\AppControlAsistencia\AppControlAsistencia\obj\Debug\AppControlAsistencia.UserControl1.resources
+C:\Users\PC\Sistema-de-Asistencia\AppControlAsistencia\AppControlAsistencia\bin\Debug\AppControlAsistencia.exe.config
+C:\Users\PC\Sistema-de-Asistencia\AppControlAsistencia\AppControlAsistencia\obj\Debug\AppControlAsistencia.exe
+C:\Users\PC\Sistema-de-Asistencia\AppControlAsistencia\AppControlAsistencia\obj\Debug\AppControlAsistencia.pdb
